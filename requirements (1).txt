@@ -1,0 +1,8 @@
+transformers
+torch
+torchvision
+pillow
+gradio
+spaces
+pytesseract
+opencv-python-headless
