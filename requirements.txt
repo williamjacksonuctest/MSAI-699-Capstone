@@ -1,7 +1,0 @@
-transformers
-torch
-torchvision
-pillow
-gradio
-spaces
-pytesseract
